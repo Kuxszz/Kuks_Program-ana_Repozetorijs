@@ -1,2 +1,2 @@
-# Kuks_Program-ana_Repozetorijs
+# Kuks_Programēšana_Repozetorijs
 Mācību faili
